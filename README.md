@@ -10,7 +10,7 @@ I'm a first-year Systems Development student passionate about technology and sof
 -  **Python** (main focus)
 -  **HTML5** & **CSS3**
 -  **SQL** & Databases
-- 💡 Programming Logic and Algorithms
+-  Programming Logic and Algorithms
 
 ### 🚀 Goals
 Over the next semesters, I plan to deepen my knowledge in:
