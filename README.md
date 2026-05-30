@@ -17,7 +17,4 @@ Technologies I plan to explore in the upcoming semesters:
 * **Version Control:** Mastering Git & GitHub workflows
 
 ### 🏫 Education
-* **Technical High School:** Systems Development, Etec VAV (Expected 2026)
-
----
-*“Code is a journey of constant learning.”*
+* **Technical High School:** Systems Development, Etec VAV (Expected 2028)
