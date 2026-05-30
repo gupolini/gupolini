@@ -1,22 +1,23 @@
 # Hi there! I'm Gustavo
 
 **Systems Development Student @ Etec VAV**
-
-I am a passionate technology student currently focused on mastering software development fundamentals. My journey involves exploring logic, structuring data, and building clean web interfaces.
-
----
-
-### Technical Skills
-* **Languages:** Python, SQL
-* **Web Development:** HTML5, CSS3
-* **Tools:** Git, GitHub, VS Code
-
-### Learning Path
-* **Currently studying:** Algorithms, Database Management, and Responsive Design.
-* **Future goals:** JavaScript and C++.
-
-### Education
-* **Technical High School:** Systems Development at Etec VAV (2024 - 2026)
+*Focusing on Software Engineering fundamentals and Modern Technologies.*
 
 ---
-*“First, solve the problem. Then, write the code.”*
+
+### 📚 Currently Learning
+I am currently a first-year student, building a solid foundation in:
+* **Back-end & Logic:** Python (Current focus)
+* **Web Fundamentals:** HTML5 & CSS3
+* **Data Management:** SQL
+
+### 🎯 Future Roadmap
+Technologies I plan to explore in the upcoming semesters:
+* **Programming:** JavaScript & C++
+* **Version Control:** Mastering Git & GitHub workflows
+
+### 🏫 Education
+* **Technical High School:** Systems Development, Etec VAV (Expected 2026)
+
+---
+*“Code is a journey of constant learning.”*
