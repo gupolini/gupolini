@@ -1,6 +1,6 @@
 # Hi there! I'm Gustavo
 
-🇧🇷 Brazilian Systems Development Student @ Etec VAV**
+**Brazilian Systems Development Student @ Etec VAV**
 
 I'm a first-year Systems Development student passionate about technology and software engineering. Currently, I'm building a strong foundation in programming, problem-solving, and web development through both coursework and personal projects.
 
