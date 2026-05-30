@@ -23,4 +23,4 @@ Over the next semesters, I plan to deepen my knowledge in:
 
 ### 🏫 Education
 **Technical High School in Systems Development**  
-Etec VAV
+**Etec VAV**
