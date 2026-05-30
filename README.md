@@ -19,6 +19,8 @@ Over the next semesters, I plan to deepen my knowledge in:
 - **Git & GitHub workflows**
 -  Software Engineering best practices
 
+---
+
 ### 🏫 Education
 **Technical High School in Systems Development**  
 Etec VAV
