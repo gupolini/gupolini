@@ -7,10 +7,10 @@ I'm a first-year Systems Development student passionate about technology and sof
 ---
 
 ### 📚 Currently Learning
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python** (main focus)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML5** & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> **CSS3**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> **SQL** & Databases
-- 💡 Programming Logic and Algorithms
+-  **Python** (main focus)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/>
+- **HTML5**<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> & **CSS3** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/>
+- **SQL** & Databases <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/>
+- Programming Logic and Algorithms
 
 ### 🚀 Goals
 Over the next semesters, I plan to deepen my knowledge in:
