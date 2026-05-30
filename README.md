@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Gustavo
 
-<!--
-**gupolini/gupolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Development Student @ Etec VAV**
 
-Here are some ideas to get you started:
+I am a passionate technology student currently focused on mastering software development fundamentals. My journey involves exploring logic, structuring data, and building clean web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technical Skills
+* **Languages:** Python, SQL
+* **Web Development:** HTML5, CSS3
+* **Tools:** Git, GitHub, VS Code
+
+### Learning Path
+* **Currently studying:** Algorithms, Database Management, and Responsive Design.
+* **Future goals:** JavaScript and C++.
+
+### Education
+* **Technical High School:** Systems Development at Etec VAV (2024 - 2026)
+
+---
+*“First, solve the problem. Then, write the code.”*
