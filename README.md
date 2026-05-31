@@ -6,7 +6,7 @@ I'm a first-year Systems Development student passionate about technology and sof
 
 ---
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 -  **Python** (main focus)
 -  **HTML5** & **CSS3**
 -  **SQL** & Databases
